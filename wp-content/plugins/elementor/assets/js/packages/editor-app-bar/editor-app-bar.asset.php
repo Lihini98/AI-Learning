@@ -1,4 +1,5 @@
 <?php
+ <?php
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
@@ -17,4 +18,5 @@ return [
 		'react',
 		'wp-i18n',
 	],
+];
 ];
